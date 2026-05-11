@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "nikkei-china-bitcoin-trade-volume",
+    "title": "China's bitcoin trade volume at record levels",
+    "client": "Nikkei Asian Review",
+    "pages": "2-3"
+  },
+  {
+    "slug": "financeasia-ready-money",
+    "title": "Ready money",
+    "client": "FinanceAsia",
+    "pages": "4-6"
+  },
+  {
+    "slug": "insuranceasia-singapore-digital-assets",
+    "title": "Insurers wary as Singapore targets digital assets",
+    "client": "InsuranceAsia News",
+    "pages": "7-7"
+  },
+  {
+    "slug": "insuranceasia-hyperconnecting-reinsurance",
+    "title": "Hyperconnecting reinsurance",
+    "client": "InsuranceAsia News",
+    "pages": "8-8"
+  },
+  {
+    "slug": "hsbc-ensuring-your-wealth-being",
+    "title": "Ensuring your wealth-being",
+    "client": "HSBC Private Bank",
+    "pages": "9-10"
+  },
+  {
+    "slug": "investhk-optimising-family-wealth",
+    "title": "Optimising family wealth",
+    "client": "InvestHK",
+    "pages": "11-11"
+  },
+  {
+    "slug": "global-group-investing-in-science",
+    "title": "Investing in science",
+    "client": "Global Group",
+    "pages": "12-12"
+  },
+  {
+    "slug": "vontobel-financial-health",
+    "title": "Financial health",
+    "client": "Vontobel",
+    "pages": "13-13"
+  },
+  {
+    "slug": "hsbc-sustaining-wealth-and-legacy",
+    "title": "Sustaining wealth and legacy",
+    "client": "HSBC",
+    "pages": "14-15"
+  },
+  {
+    "slug": "hokodo-payment-flows-b2b-marketplace",
+    "title": "The payment flows of a B2B marketplace",
+    "client": "Hokodo",
+    "pages": "16-17"
+  },
+  {
+    "slug": "hokodo-trust-and-reputation-b2b",
+    "title": "The role of trust and reputation in B2B marketplaces",
+    "client": "Hokodo",
+    "pages": "18-19"
+  },
+  {
+    "slug": "dealsuite-corporate-buyers-online-revolution",
+    "title": "Why corporate buyers are embracing the online revolution",
+    "client": "Dealsuite",
+    "pages": "20-21"
+  },
+  {
+    "slug": "hawkai-finding-fincrime",
+    "title": "Finding FinCrime when we don't know what to look for",
+    "client": "Hawk:AI",
+    "pages": "22-23"
+  },
+  {
+    "slug": "klarna-five-ways-multibanking",
+    "title": "Five ways multibanking is changing banking",
+    "client": "Klarna",
+    "pages": "24-25"
+  },
+  {
+    "slug": "klarna-open-banking-game-changing-ideas",
+    "title": "Open banking makes game-changing ideas powerfully real",
+    "client": "Klarna Kosma",
+    "pages": "26-26"
+  },
+  {
+    "slug": "sprinque-embedded-finance-customer-journey",
+    "title": "Improving the customer journey with embedded finance",
+    "client": "Sprinque",
+    "pages": "27-27"
+  },
+  {
+    "slug": "sprinque-how-we-built-this",
+    "title": "How we built this",
+    "client": "Sprinque",
+    "pages": "28-28"
+  },
+  {
+    "slug": "fourthline-finding-the-sweet-spot",
+    "title": "Finding the sweet spot",
+    "client": "Fourthline",
+    "pages": "29-32"
+  },
+  {
+    "slug": "zai-uk-payments-landscape",
+    "title": "The UK payments landscape",
+    "client": "Zai",
+    "pages": "33-34"
+  },
+  {
+    "slug": "sygno-modelling-good-behaviour",
+    "title": "Modelling good behaviour",
+    "client": "Sygno",
+    "pages": "35-35"
+  }
+]
